@@ -172,3 +172,12 @@ footer{
   opacity: 75%;
   overflow:hidden;
 }
+.container2{
+  width:85%;
+  color:black; font-size:large;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #fff;
+  margin:auto;
+  opacity: 65%;
+  overflow:hidden;
+  }
